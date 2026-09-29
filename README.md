@@ -27,7 +27,7 @@ Možete i lokalno otvoriti `index.html` dvoklikom. Svi vizuelni resursi su u ZIP
 - Korpa, referenca narudžbenice, napomena i dostava; statusi, istorija, ponovno naručivanje i kreditni limit.
 - Uvoz porudžbine i admin uvoz zaliha iz CSV, TXT, XLSX i XML sa pregledom nepoznatih šifara pre primene.
 - Zahtevi za ponudu i servis, administrativni pregled zahteva i simulirani ERP tok.
-- Izvoz demo pregleda u CSV i lokalno čuvanje izmena u `localStorage`; **Resetuj demo** vraća početne podatke.
+- Izvoz demo pregleda u CSV i lokalno čuvanje izmena u `localStorage`; **Odjavi se** vraća na izbor demo profila bez brisanja podataka.
 
 ## Važno za prikaz
 
