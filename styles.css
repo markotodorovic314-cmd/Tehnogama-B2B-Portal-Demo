@@ -157,6 +157,12 @@ input:focus,select:focus,textarea:focus{border-color:#18a9b3!important;box-shado
 .list-product .mark{font-size:19px}
 .list-product h3{font-size:12px;margin:0 0 4px}
 .list-product p{font-size:10px;color:#849aa5;margin:0}
+.product-card[data-product],.list-product[data-product]{cursor:pointer}
+.product-card[data-product]:hover,.list-product[data-product]:hover{border-color:#9bcbd3;box-shadow:0 8px 22px #0b465018}
+.product-card[data-product]:focus-visible,.list-product[data-product]:focus-visible{outline:3px solid #0b8999;outline-offset:3px}
+.detail-description{color:#526f7c;font-size:12px;line-height:1.65;margin:12px 0 18px}
+.detail-description p{margin:0 0 10px}
+.detail-section-title{font-size:12px;color:#173e53;margin:16px 0 7px}
 .list-product .price-row{margin:0}
 .split{display:grid;grid-template-columns:minmax(0,1.6fr) minmax(280px,.9fr);gap:17px}
 .form-label{display:block;font-size:11px;color:#4d6877;font-weight:800;margin-bottom:6px}
